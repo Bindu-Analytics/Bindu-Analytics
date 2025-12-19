@@ -1,16 +1,26 @@
-## Hi  👋 I’m a Data Analyst specializing in SQL, Python, Power BI, and Excel for data analysis and visualization.
+## Hi  👋 I’m HIMABINDU a Data Analyst specializing in SQL, Python, Power BI, and Excel for data analysis and visualization.
 
-<!--
-**Bindu-Analytics/Bindu-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Aspiring Data Analyst | Business Analyst
+### 📊 Power BI • SQL • Excel • Data Analysis • Data Storytelling
+### 🎯 Open to Data Analyst / Business Analyst opportunities
 
-Here are some ideas to get you started:
+I have a strong background in accounting and business operations and am transitioning into data analytics and business analytics. I specialize in transforming raw data into meaningful insights that support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 What I do
+- Build interactive Power BI dashboards
+- Analyze sales, customer, and business data
+- Create clear reports and KPIs for stakeholders
+- Work with large datasets using SQL and Excel
+
+
+🔹 Currently
+
+- Working on real-world data analytics and business analytics projects
+- Improving skills in Power BI, SQL, and Python
+- Actively seeking Data Analyst / Business Analyst opportunities
+
+
+### 🔗 Connect with me
+
+- LinkedIn: 
+

@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋 I’m a Data Analyst specializing in SQL, Python, Power BI, and Excel for data analysis and visualization.
 
 <!--
 **Bindu-Analytics/Bindu-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

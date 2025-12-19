@@ -22,5 +22,6 @@ I have a strong background in accounting and business operations and am transiti
 
 ### 🔗 Connect with me
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/himabindu-pathlavath-baa298204/
+- Naukri : https://www.naukri.com/mnjuser/profile?id=&altresid
 
